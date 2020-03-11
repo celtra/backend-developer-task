@@ -35,7 +35,7 @@ The goal is to build a simple but secure and easily scalable service.
 * Users are authenticated via username and password. Users authentication data (usernames/passwords) can be generated and seeded in the provided database since API for users is not required.
 
 ### Submission
-* Commit the code into the provided repository
+* Fork this repository and commit the code there
   * Add [instructions](instructions/README.md)
   * Add [database seed](database/README.md)
   * Add [credentials](credentials/README.md)
