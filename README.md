@@ -19,11 +19,11 @@ The goal is to build a simple but secure and easily scalable service.
 * Should support CRUD actions for folders
 * Should support CRUD actions for notes
 * Implement at least 2 out of 3
-  * Pagination should be supported
-  * Sorting should be supported
+  * Pagination
+  * Sorting
     * By note shared option (public/private)
     * By note heading
-  * Filtering should be supported
+  * Filtering
     * By note folder
     * By note shared option (public/private)
     * By note text
